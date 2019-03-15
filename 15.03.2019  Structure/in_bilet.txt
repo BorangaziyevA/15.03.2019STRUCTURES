@@ -1,0 +1,5 @@
+4
+Aksay-Medeu 20:58 15.03.2019 180
+Bostandyk-Talgar 12:01 12.03.2019 40
+Theater-Airport 16:34 07.03.2019 80
+Vokzal1-Vokzal2 8:41 03.03.2019 150
